@@ -1,0 +1,1 @@
+# SMALMAP-application
